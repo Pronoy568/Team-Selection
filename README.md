@@ -1,3 +1,3 @@
 # Team-Selection
 
-Live link : https://nervous-euclid-ecca44.netlify.app/
+Live link : https://cricket-team-selectionbd.netlify.app/
