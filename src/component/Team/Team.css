@@ -1,0 +1,18 @@
+.team-container {
+  text-align: center;
+}
+.team-container img {
+  margin: 10px;
+  padding: 5px;
+  width: 25%;
+  height: 100%;
+}
+.team-container img:hover {
+  border: 1px solid red;
+}
+.team-container h1 {
+  font-size: 35px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,23 @@
+.header {
+  text-align: center;
+  background-color: #f7f7f7;
+}
+.header img {
+  height: 22vh;
+}
+.nav-bar {
+  margin: 5px;
+  padding: 20px;
+  line-height: 20px;
+}
+.nav-bar a {
+  text-decoration: none;
+  margin: 5px;
+  padding: 5px;
+  color: black;
+}
+.nav-bar a:hover {
+  color: rgb(252, 252, 252);
+  background-color: rgba(20, 20, 20, 0.534);
+  border-radius: 5px;
+}

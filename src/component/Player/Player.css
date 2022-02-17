@@ -1,0 +1,28 @@
+.player {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 60px;
+  width: 63%;
+  border-right: 5px solid;
+  border-image: linear-gradient(
+    to bottom,
+    rgb(97, 103, 122),
+    rgb(192, 167, 233),
+    rgb(243, 176, 243),
+    rgb(185, 206, 185),
+    rgb(220, 240, 166),
+    rgb(57, 226, 57),
+    rgb(240, 204, 151),
+    rgb(248, 185, 185)
+  );
+  border-image-slice: 1;
+}
+.aside {
+  display: flex;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+.selected-player {
+  margin-left: 20px;
+  text-align: center;
+}
